@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AnasAbdulatif
-- 👀 I’m interested in Software Engineering 
+- 👋 Hi, I’m @AnasAbdulatif,
+    im frsh computer science graduated from  the british universty in egypt as a software engineer
+- 👀 I’m interested in DevOps 
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-anas99anas@gmail.com
+- 📫 How to reach me ---> anas99anas@gmail.com
 
 <!---
 AnasAbdulatif/AnasAbdulatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
