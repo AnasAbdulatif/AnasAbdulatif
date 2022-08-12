@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnasAbdulatif,
-    im frsh computer science graduated from  the british universty in egypt as a software engineer
+    im fresh computer science graduated from  the british universty in egypt as a software engineer
 - 👀 I’m interested in DevOps 
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me ---> anas99anas@gmail.com
